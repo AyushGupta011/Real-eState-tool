@@ -1,0 +1,9 @@
+.env
+# Virtual environments
+
+# Python type checkers / caches
+.pyre/
+.pytype/
+
+# Misc
+__pycache__/
